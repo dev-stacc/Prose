@@ -209,7 +209,7 @@ In alphabetical order:
 - [@LuisFonmarty](https://github.com/LuisFonmarty)
 - [@MokhttaAr](https://github.com/MokhttaAr)
 - [@RobyCeo](https://github.com/RobyCeo)
-- [@StacAttacc](https://github.com/StacAttacc)
+- [@dev-stacc](https://github.com/dev-stacc)
 - [@ZacharieBouchard16](https://github.com/ZacharieBouchard16)
 
 ## License
@@ -439,7 +439,7 @@ Par ordre alphabétique :
 - [@LuisFonmarty](https://github.com/LuisFonmarty)
 - [@MokhttaAr](https://github.com/MokhttaAr)
 - [@RobyCeo](https://github.com/RobyCeo)
-- [@StacAttacc](https://github.com/StacAttacc)
+- [@dev-stacc](https://github.com/dev-stacc)
 - [@ZacharieBouchard16](https://github.com/ZacharieBouchard16)
 
 ## Licence

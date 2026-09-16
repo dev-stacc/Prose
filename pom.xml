@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>prose</name>
 	<description>Internship management platform for students, employers, professors, and program coordinators.</description>
-	<url>https://github.com/StacAttacc/Prose</url>
+	<url>https://github.com/dev-stacc/Prose</url>
 	<licenses>
 		<license>
 			<name>MIT License</name>
@@ -23,7 +23,7 @@
 	</licenses>
 	<developers>
 		<developer>
-			<id>StacAttacc</id>
+			<id>dev-stacc</id>
 			<name>Anastasia Valitiana</name>
 		</developer>
 		<developer>
@@ -44,9 +44,9 @@
 		</developer>
 	</developers>
 	<scm>
-		<connection>scm:git:https://github.com/StacAttacc/Prose.git</connection>
-		<developerConnection>scm:git:git@github.com:StacAttacc/Prose.git</developerConnection>
-		<url>https://github.com/StacAttacc/Prose</url>
+		<connection>scm:git:https://github.com/dev-stacc/Prose.git</connection>
+		<developerConnection>scm:git:git@github.com:dev-stacc/Prose.git</developerConnection>
+		<url>https://github.com/dev-stacc/Prose</url>
 		<tag>HEAD</tag>
 	</scm>
 	<properties>

@@ -8,8 +8,13 @@ end-of-term evaluations.
 
 **Live demo:** https://prose-jet.vercel.app/
 
-Built as a team class project across six one-week sprints by five
-contributors. UI is primarily in French with i18next wiring for English.
+Prose is a team project built for a computer-science course. The
+assignment was to reimagine **ose**, an existing internship-management
+site that ships every required feature but is locally infamous for its
+UX. Our brief was to keep the functionality and rebuild the experience
+around something more intuitive. The work was carried out by a team of
+five over the course of six one-week sprints. The UI is primarily in
+French, with i18next wiring in place for English.
 
 ## Tech stack
 
@@ -229,9 +234,15 @@ de fin de session, en passant par la signature des ententes de stage.
 
 **Démo en ligne :** https://prose-jet.vercel.app/
 
-Réalisé en équipe dans le cadre d'un projet de classe sur six sprints
-hebdomadaires par cinq personnes. L'interface est principalement en
-français, avec une infrastructure i18next pour l'anglais.
+Prose est un projet d'équipe réalisé dans le cadre d'un cours
+d'informatique. Le mandat : repenser **ose**, un site existant de
+gestion de stages qui couvre toutes les fonctionnalités requises mais
+dont l'expérience utilisateur est tristement célèbre. Notre consigne
+était de conserver les fonctionnalités et de reconstruire l'interface
+autour de quelque chose de plus intuitif. Le travail a été mené par
+une équipe de cinq personnes au fil de six sprints d'une semaine.
+L'interface est principalement en français, avec une infrastructure
+i18next prévue pour l'anglais.
 
 ## Pile technique
 
